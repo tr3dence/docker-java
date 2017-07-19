@@ -4,7 +4,7 @@ docker-java
 
 [![](https://images.microbadger.com/badges/image/tredence/docker-java.svg)](https://microbadger.com/images/tredence/docker-java "Get your own image badge on microbadger.com")
 
-[![dockeri.co](http://dockeri.co/image/tredence/docker-java)](https://registry.hub.docker.com/t/tredence/docker-java/)
+[![dockeri.co](http://dockeri.co/image/tredence/docker-java/)](https://registry.hub.docker.com/t/tredence/docker-java/)
 
 
 Docker images with java in two different flavours:
